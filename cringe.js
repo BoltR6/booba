@@ -6,3 +6,4 @@ kys
 go fuck yourself
 if(alive) {kill}
 kill kill kill kill
+FUCKING END ME
