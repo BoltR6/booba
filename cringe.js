@@ -3,3 +3,4 @@ fuckyou = "fuck you";
 print('mid');
 print('cringe');
 kys
+if(alive) {kill}
